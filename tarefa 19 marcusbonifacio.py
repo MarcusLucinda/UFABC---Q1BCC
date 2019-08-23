@@ -11,7 +11,7 @@ import numpy as np
 
 print('1) Faça um script para estimar o valor de π utilizando o método de Monte Carlo.')
 
-N = 1000000 #define quantidade de pontos
+N = 10000000 #define quantidade de pontos
 x = np.random.rand(N) #gera números aleatórios de 0 a 1 
 y = np.random.rand(N)
 deltax = (0.5-x)**2 #calcula a diferença das coordenadas do ponto para o centro do círculo
