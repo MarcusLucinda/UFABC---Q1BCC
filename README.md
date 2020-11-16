@@ -1,1 +1,1 @@
-# Computer Science Bases assignments
+# Computer Science Bases class assignments
