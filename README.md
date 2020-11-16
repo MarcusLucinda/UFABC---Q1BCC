@@ -1,1 +1,1 @@
-# Atividades das aulas de BCC
+# Computer Science Bases assignments
